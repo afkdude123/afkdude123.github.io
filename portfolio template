@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developer Portfolio & Documentation</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 2rem; color: #333; background: #fafafa; }
+        h1 { color: #111; border-bottom: 2px solid #eaeaea; padding-bottom: 0.3em; }
+        .project { background: white; border: 1px solid #e1e4e8; padding: 1.5rem; border-radius: 6px; margin-bottom: 1rem; }
+    </style>
+</head>
+<body>
+    <h1>Documentation & Open Source Projects</h1>
+    <p>Welcome. This site serves as a public repository hosting static assets, project portfolios, and technical documentation for open-source initiatives.</p>
+    
+    <h2>Active Projects</h2>
+    <div class="project">
+        <h3>Network Analytics Engine</h3>
+        <p>A lightweight utility designed for parsing structured telemetry data profiles and network route mapping interfaces.</p>
+    </div>
+    <div class="project">
+        <h3>Custom Rulesets & Parser Rules</h3>
+        <p>A collection of baseline parsing rules deployed via cloud edge environments to manage traffic filtering constraints dynamically.</p>
+    </div>
+    <div class="future">
+        <h3>This is a stub</h3>
+        <p>This page is not complete yet. You can contribute yourselves if you want</p>
+    </div>
+</body>
+</html>
+
